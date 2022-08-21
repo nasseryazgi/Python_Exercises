@@ -34,4 +34,7 @@ later?
  97. Distance from a Storm If n is the number of seconds between lightning and 
 thunder, the storm is n/5 miles away. Write a program that requests the number 
 of seconds between lightning and thunder and reports the distance from the storm 
-rounded to two decimal places.![image](https://user-images.githubusercontent.com/85821198/185799377-3aeccebb-2484-4079-8a13-2a4f1d50d531.png)
+rounded to two decimal places . See Fig
+  ![image](https://user-images.githubusercontent.com/85821198/185799398-df00e132-6625-4bbd-bd4d-9e9def0a6dad.png)
+![image](https://user-images.githubusercontent.com/85821198/185799408-76c20152-96f6-4827-997d-c3aa7b903384.png)
+
