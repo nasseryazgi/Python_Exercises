@@ -61,3 +61,33 @@ when the purchase price is tripled, the percentage markup is 200%.
   109. Analyze a Number Write a program that requests a positive number containing a 
 decimal point as input and then displays the number of digits to the left of the decimal point and the number of digits to the right of the decimal point. See Fig. 2.19
   ![image](https://user-images.githubusercontent.com/85821198/185799541-cf6f726f-3b4d-422e-8ed9-744114f0712a.png)
+  
+  
+  110. Word Replacement Write a program that requests a sentence, a word in the sentence, and another word and then displays the sentence with the first word replaced 
+by the second. See Fig. 2.20
+  ![image](https://user-images.githubusercontent.com/85821198/185799620-8048357b-508a-46c9-b82a-6c52b29ee48b.png)
+  
+111. Convert Months Write a program that asks the user to enter a whole number 
+of months as input and then converts that amount of time to years and months. 
+See Fig.  2.21. The program should use both integer division and the modulus 
+operator.
+![image](https://user-images.githubusercontent.com/85821198/185799637-9f22d976-5aa6-4fab-ae49-deadaea90891.png)
+
+  #OutPut
+  
+  53. Server’s Tip Calculate the amount of a server’s tip, given the amount of the bill 
+and the percentage tip as input. See Fig. 2.23
+  ![image](https://user-images.githubusercontent.com/85821198/185799676-431d0d70-23e6-4768-bbd6-7c395c7606b2.png)
+
+  54. Income Request a company’s annual revenue and expenses as input, and display 
+the company’s net income (revenue minus expenses).
+  
+  ![image](https://user-images.githubusercontent.com/85821198/185799707-243dbebe-217d-4d06-b9bd-ec9a4780782b.png)
+  
+  
+  55. Change in Salary A common misconception is that if you receive a 10% pay raise 
+and later a 10% pay cut, your salary will be unchanged. Request a salary as input 
+and then display the salary after receiving a 10% pay raise followed by a 10% pay 
+cut. The program also should display the percentage change in salary. See Fig. 2.25.
+![image](https://user-images.githubusercontent.com/85821198/185799724-87fcaaed-d4f3-462b-802a-586242362524.png)
+
