@@ -90,6 +90,13 @@ and later a 10% pay cut, your salary will be unchanged. Request a salary as inpu
 and then display the salary after receiving a 10% pay raise followed by a 10% pay 
 cut. The program also should display the percentage change in salary. See Fig. 2.25.
 ![image](https://user-images.githubusercontent.com/85821198/185799724-87fcaaed-d4f3-462b-802a-586242362524.png)
+  
 Enter beginning salary: 35000
 New salary: $34,650.00
 Change: -1.00%
+
+  
+  #Lists, tuples and files#
+  101. Analyze a Sentence Write a program that counts the number of words in a sentence input by the user. See Fig. 2.30
+  Enter a sentence: Know what I mean?
+Number of words: 4
