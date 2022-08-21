@@ -1,4 +1,6 @@
 
+"Solved By Nasse Salah Yazgi"
+
 """
 Numbera
 """
@@ -109,8 +111,6 @@ Strings
 # years = methods // 12 ;
 # meth = methods %12 ;
 # print(str(methods)+" months is " + str(years) +" Years and " + str(meth) )
-
-"fdgdfgdfgdfgdfg ddfgdgdgdfg"
 
 """
 #OutPut
