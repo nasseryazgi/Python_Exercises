@@ -29,3 +29,9 @@ building permit for a 432-square-foot deck. How long will each side of the deck 
 75. Banks A bank offers 8.7% interest per year on all savings accounts. If a savings 
 account initially contains $1000, how much money will the account hold two years 
 later?
+
+  #String #
+ 97. Distance from a Storm If n is the number of seconds between lightning and 
+thunder, the storm is n/5 miles away. Write a program that requests the number 
+of seconds between lightning and thunder and reports the distance from the storm 
+rounded to two decimal places.![image](https://user-images.githubusercontent.com/85821198/185799377-3aeccebb-2484-4079-8a13-2a4f1d50d531.png)
