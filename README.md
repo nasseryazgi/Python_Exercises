@@ -98,5 +98,17 @@ Change: -1.00%
   
   #Lists, tuples and files#
   101. Analyze a Sentence Write a program that counts the number of words in a sentence input by the user. See Fig. 2.30
-  Enter a sentence: Know what I mean?
-Number of words: 4
+  ![image](https://user-images.githubusercontent.com/85821198/185799824-5c0021ca-265c-475f-bcf4-299cb3840303.png)
+
+  102. Analyze a Sentence Write a program that displays the first and last words of a sentence input by the user. See Fig. 2.31. Assume that the only punctuation is a period 
+at the end of the sentence.
+  ![image](https://user-images.githubusercontent.com/85821198/185799839-13088b97-3919-4685-b20e-fa92d706f455.png)
+
+  103. Name Write a program that requests a two-part name and then displays the name 
+in the form "lastName, firstName". See Fig. 2.32
+  ![image](https://user-images.githubusercontent.com/85821198/185799850-3e455b2a-3355-4587-8304-cd7bf442b86c.png)
+
+  
+  104. Name Write a program that requests a three-part name and then displays the middle name. See Fig. 2.33
+  ![image](https://user-images.githubusercontent.com/85821198/185799868-038b63bf-8ec2-4730-a38c-4c9f4734e686.png)
+
